@@ -1,1 +1,4 @@
 hello
+json.stringify({
+    "hello": "world"
+})
